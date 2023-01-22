@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibrahimkaratoprak
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python,MySQL
+- 👀 I’m interested in Backend Developer
+- 🌱 I’m currently learning Java,Sql
 - 📫 How to reach me linkedin.com/in/ibrahimkaratoprak
 
 <!---
