@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ibrahimkaratoprak
-- 👀 I’m interested in Backend Developer
-- 🌱 I’m currently learning Java,Sql
-- 📫 How to reach me linkedin.com/in/ibrahimkaratoprak
+- 👋 Hi, I’m Ibrahim.
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning Java,Sql.
+- 📫 linkedin.com/in/ibrahimkaratoprak
 
 <!---
 ibrahimkaratoprak/ibrahimkaratoprak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
