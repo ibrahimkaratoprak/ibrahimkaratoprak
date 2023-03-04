@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ibrahim.
-- 👀 I’m interested in Backend Development
+- 👀 I’m interested in Java Developer
 - 🌱 I’m currently learning Java,Sql.
 - 📫 linkedin.com/in/ibrahimkaratoprak
 
