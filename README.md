@@ -1,6 +1,5 @@
--# Ibrahim Karatoprak
 
-👋 Merhaba!Java ve SQL konularında kendimi geliştirmekteyim.
+👋 Merhaba! Java ve SQL konularında kendimi geliştirmekteyim.
 
 🌱 Şu anda aşağıdaki konular üzerinde çalışıyorum:
 
