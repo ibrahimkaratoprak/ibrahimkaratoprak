@@ -1,9 +1,17 @@
-- 👋 Hi, I’m Ibrahim.
-- 👀 I’m interested in Java Developer
-- 🌱 I’m currently learning Java,Sql.
-- 📫 linkedin.com/in/ibrahimkaratoprak
+-# Ibrahim Karatoprak
 
-<!---
-ibrahimkaratoprak/ibrahimkaratoprak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Merhaba!Java ve SQL konularında kendimi geliştirmekteyim.
+
+🌱 Şu anda aşağıdaki konular üzerinde çalışıyorum:
+
+- Java
+- SQL
+- C#
+
+💼 GitHub profilimde bazı projelere yer veriyorum. Daha fazla bilgi için LinkedIn profilime [buradan](https://www.linkedin.com/in/ibrahimkaratoprak) ulaşabilirsiniz.
+
+📫 Bana aşağıdaki yollarla ulaşabilirsiniz:
+
+- LinkedIn: [linkedin.com/in/ibrahimkaratoprak](https://www.linkedin.com/in/ibrahimkaratoprak)
+- E-mail: ibrahimkaratoprak@outlook.com.tr
+
