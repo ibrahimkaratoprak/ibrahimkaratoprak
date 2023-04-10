@@ -13,4 +13,4 @@
 
 - LinkedIn: [linkedin.com/in/ibrahimkaratoprak](https://www.linkedin.com/in/ibrahimkaratoprak)
 - E-mail: ibrahimkaratoprak@outlook.com.tr
-
+- Gitlab: [gitlab.com/ibrahimkaratoprak](https://gitlab.com/ibrahimkaratoprak)
